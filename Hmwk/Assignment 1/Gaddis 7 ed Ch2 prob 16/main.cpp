@@ -21,13 +21,13 @@ using namespace std;
  */
 //Execution begins here
 int main(int argc, char** argv) {
-cout << "\t \t \t *\n";
-cout << "\t\t\t***\n";
-cout << " \t \t       *****\n";
-cout << " \t \t      *******\n";
-cout << " \t \t       *****\n";
-cout << "\t\t\t***\n";
-cout << "\t \t \t *\n";
+    cout << "\t \t \t *\n";
+    cout << "\t\t\t***\n";
+    cout << " \t \t       *****\n";
+    cout << " \t \t      *******\n";
+    cout << " \t \t       *****\n";
+    cout << "\t\t\t***\n";
+    cout << "\t \t \t *\n";
     return 0;  
 }
 
