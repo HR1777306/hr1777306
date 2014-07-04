@@ -40,4 +40,3 @@ cout<<"the average inches of rain for the mothns of "<<month1, month2, month3<<"
     
     return 0;
 }
-
